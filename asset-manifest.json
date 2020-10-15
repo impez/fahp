@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fahp/static/css/main.65fe9460.chunk.css",
+    "main.js": "/fahp/static/js/main.c3370327.chunk.js",
+    "main.js.map": "/fahp/static/js/main.c3370327.chunk.js.map",
+    "runtime-main.js": "/fahp/static/js/runtime-main.68005664.js",
+    "runtime-main.js.map": "/fahp/static/js/runtime-main.68005664.js.map",
+    "static/js/2.41af0dad.chunk.js": "/fahp/static/js/2.41af0dad.chunk.js",
+    "static/js/2.41af0dad.chunk.js.map": "/fahp/static/js/2.41af0dad.chunk.js.map",
+    "index.html": "/fahp/index.html",
+    "precache-manifest.f15c19faab1ae705bde3edce2fcf127d.js": "/fahp/precache-manifest.f15c19faab1ae705bde3edce2fcf127d.js",
+    "service-worker.js": "/fahp/service-worker.js",
+    "static/css/main.65fe9460.chunk.css.map": "/fahp/static/css/main.65fe9460.chunk.css.map",
+    "static/js/2.41af0dad.chunk.js.LICENSE.txt": "/fahp/static/js/2.41af0dad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68005664.js",
+    "static/js/2.41af0dad.chunk.js",
+    "static/css/main.65fe9460.chunk.css",
+    "static/js/main.c3370327.chunk.js"
+  ]
+}
